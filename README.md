@@ -16,6 +16,8 @@ I'm Mawuli, a passionate full-stack developer based in Ho, Ghana. Welcome to my 
 
 Feel free to explore my repositories. If you're passionate about web development or have a cool project idea, let's connect and code something amazing! 🚀🌟
 
+---
+
 [![](https://visitcount.itsvg.in/api?id=maulydev&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 # Get in touch
