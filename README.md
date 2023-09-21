@@ -8,9 +8,9 @@ I'm Mawuli, a passionate full-stack developer based in Ho, Ghana. Welcome to my 
 
 - 👯 I’m looking to collaborate on interesting projects and connect with fellow developers who share similar interests. Let's code together! 🤝💡
 
-- 🤔 I’m open to discussions on best practices in web development, architecture, and design patterns. Let's brainstorm and level up! 🧠💬
+<!-- - 🤔 I’m open to discussions on best practices in web development, architecture, and design patterns. Let's brainstorm and level up! 🧠💬 -->
 
-- 😄 Pronouns:  He/Him.
+<!-- - 😄 Pronouns:  He/Him. -->
 
 - ⚡ Fun fact: I once recreated the classic bounce game using Python. Simplicity can be a beautiful challenge! 🐍🎮
 
