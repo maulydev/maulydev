@@ -2,7 +2,7 @@
 
 I'm Mawuli, a passionate full-stack developer based in Ho, Ghana. Welcome to my GitHub profile! ✨
 
-- 🔭 I’m currently working with **Python**, **Django**, **Next JS**, and **Tailwind CSS** to build web applications that are both functional and beautiful. 💻🌐🚀
+- 🔭 I’m currently working with **Python**, **Django**, **Next JS**, **Shadcn UI** and **Tailwind CSS** to build web applications that are both functional and beautiful. 💻🌐🚀
 
 - 🌱 I’m always learning and staying up-to-date with the latest trends in web development. Continuous improvement is my motto! 📚🔍
 
