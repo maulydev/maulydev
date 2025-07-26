@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mawuli, a passionate full-stack developer based in Ho, Ghana. Welcome to my GitHub profile! ✨
+I'm Ernest, a passionate full-stack developer based in Ho, Ghana. Welcome to my GitHub profile! ✨
 
 - 🔭 I’m currently working with **Python**, **Django**, **Next JS**, **Shadcn UI** and **Tailwind CSS** to build web applications that are both functional and beautiful. 💻🌐🚀
 
